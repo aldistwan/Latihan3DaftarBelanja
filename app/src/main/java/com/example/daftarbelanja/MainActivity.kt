@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
             startActivity(intentKita)
         }
 
+
         val btnTentang = findViewById<Button>(R.id.btn_tentang)
         btnTentang.setOnClickListener{
             Toast.makeText(applicationContext, "Dibuat oleh Aldi Setiawan (8020180280)", Toast.LENGTH_SHORT).show()
