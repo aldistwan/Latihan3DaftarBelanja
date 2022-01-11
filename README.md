@@ -12,4 +12,4 @@ Nim: 8020180280
 
 Kelas: 04MTP
 
-Link Video Demo APP: https://youtu.be/Vv2rPx4mFj4 
+Link Video Demo APP: https://youtu.be/KH8aMyttYNk
